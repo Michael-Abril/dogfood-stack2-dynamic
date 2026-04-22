@@ -1,5 +1,6 @@
 {
   "name": "dogfood-stack2-dynamic",
   "framework": "nextjs",
-  "hosting": "dynamic"
+  "hosting": "dynamic",
+  "github_repo": "https://github.com/Michael-Abril/dogfood-stack2-dynamic.git"
 }
