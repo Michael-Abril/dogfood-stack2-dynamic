@@ -1,0 +1,5 @@
+{
+  "name": "dogfood-stack2-dynamic",
+  "framework": "nextjs",
+  "hosting": "dynamic"
+}
